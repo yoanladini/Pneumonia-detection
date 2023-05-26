@@ -1,0 +1,6 @@
+torch
+gunicorn
+torchvision 
+torchaudio
+matplotlib
+albumentations
